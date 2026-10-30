@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperBiometric",
-            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.9.7/HyperBiometric.zip",
-            checksum: "3edb3a993e83ae568f2f6a8391fa6ac5d4be0ad8243d91cc4aa396a5eaae3d32"
+            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.9.8/HyperBiometric.zip",
+            checksum: "4742bb6075632fd0c0836e01bfa5aa882412e951ce5356f812ee234071e8b6d3"
         )
     ]
 )
